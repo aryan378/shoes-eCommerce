@@ -1,0 +1,160 @@
+.menu__left{
+    margin-left: 130px;
+}
+.menu__left li{
+    margin-left: 20px;
+}
+.menu__left li a{
+    color: #3C3C3C;
+    font-weight: bold;
+}
+.header__body{
+    display: flex;
+    width: 80%;
+} 
+.header__top--logo {
+	width: 300px;
+}
+.header{
+    background-color: #FFF9F4;
+    min-height: 650px;
+}
+.nav__topbar{
+    padding-top: 45px;
+}
+.header__left img{
+    width: 480px;
+    margin-top: 40px;
+}
+.header__right h1{
+    color: #FA804C;
+    font-size: 65px;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 2px;
+}
+.header__right h2{
+    color: #363958;
+    font-size: 65px;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 2px;
+}
+.header__right p{
+    color: #3E3E3E;
+    font-size: 16px;
+    max-width: 350px;
+}
+#custom__button{
+    background-image: linear-gradient(45deg, #3D4FF3,#2636c0);
+    color: #ffffff;
+    font-size: 15px;
+    border: none;
+    text-transform: uppercase;
+    padding: 14px 26px;
+    font-weight: 400;
+    border-radius: 8px;
+}
+
+.header__right {
+    margin-left: auto;
+    margin-top: 100px;
+}
+.spacing__icons{
+    padding: 0 10px;
+}
+.card__body--bottom{
+    display: flex;
+    margin-top: 30px;
+}
+.casual-shoes{
+    margin-top: 70px; 
+
+}
+.casual-shoes h2{
+    color: #363958;
+    font-size: 48px;
+    font-family: 'Bebas Neue', cursive;
+    margin-left: 70px;
+}
+
+.card img {
+    width: 200px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.card-title{
+    color: #363958;
+    font-size: 24px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.card-text{
+    color: #3E3E3E;
+    font-size: 16px;
+}
+.card__price h4{
+    color: #FA804C;
+    font-size: 36px;
+    font-weight: bold;
+}
+.card__button{
+    margin-left: auto;
+}
+.casual{
+    margin-top: 50px;
+}
+
+.card{
+    border: none;
+    box-shadow: 0px 4px 12px #ccc;
+    border-radius: 10px;
+}
+.card__img img {
+    width: 90px;
+    margin: 0 auto;
+    margin-left: 50px;
+    margin-top: 13px;
+}
+.card__find{
+    border-radius: 10px;
+}
+.shipping{
+    width: 450px;
+    margin-left: 60px;
+    margin-top: 100px;
+}
+.find{
+    margin-top: 80px;
+}
+.news__content {
+	margin-top: 20px;
+}
+.card__news--blog>img {
+    width: 100%;
+    margin: 0;
+}
+.latest-news{
+    margin-top: 150px;
+}
+.latest-news h2{
+    color: #363958;
+    font-size: 48px;
+    font-family: 'Bebas Neue', cursive;
+    margin-left: 70px;
+}
+.latest__body{
+    margin-top: 50px;
+}
+
+.website-footer{
+    background-color: #FFF9F4;
+    margin-top: 100px;
+}
+.footer__content{
+    margin: 0px;
+    padding: 15px 0px;
+    text-align: center;
+    font-size: 16px;
+    color: #3E3E3E;
+}
+
+

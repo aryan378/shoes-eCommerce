@@ -14,6 +14,18 @@
     .header__left img {
         width: 390px;
     }
+    .casual__content{
+        flex-direction: column;
+    }
+    .find__content--body {
+        margin: 0 auto;
+    }
+    .shipping__imgsize{
+        margin: 0 auto;
+    }
+    .humbarger__menu {
+        margin-left: 250px;
+    }
 
 }
 @media only screen and (max-width: 768px){
@@ -37,6 +49,12 @@
     }
     .humbarger__menu {
         margin-left: 177px;
+    }
+    .find__content--body{
+        text-align: center;
+    }
+    .card__img img {
+        margin-left: 0px !important; 
     }
 
 }

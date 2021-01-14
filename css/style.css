@@ -1,3 +1,5 @@
+/* Header style here */
+
 .menu__left{
     margin-left: 130px;
 }
@@ -58,6 +60,11 @@
     margin-left: auto;
     margin-top: 100px;
 }
+/* Header end style here */
+
+
+
+/* Casual style start here */
 .spacing__icons{
     padding: 0 10px;
 }
@@ -103,6 +110,10 @@
     margin-top: 50px;
 }
 
+/* Casual end style here */
+
+
+/* Find and shipping style here */
 .card{
     border: none;
     box-shadow: 0px 4px 12px #ccc;
@@ -125,6 +136,9 @@
 .find{
     margin-top: 80px;
 }
+find__content--body{
+    text-align: center;
+}
 .news__content {
 	margin-top: 20px;
 }
@@ -132,6 +146,13 @@
     width: 100%;
     margin: 0;
 }
+
+/* Find and shipping end style here */
+
+
+
+/* Latest news style start here */
+
 .latest-news{
     margin-top: 150px;
 }
@@ -144,6 +165,11 @@
 .latest__body{
     margin-top: 50px;
 }
+/* Latest news style End here */
+
+
+
+/* Website footer style start here */
 
 .website-footer{
     background-color: #FFF9F4;
@@ -157,4 +183,4 @@
     color: #3E3E3E;
 }
 
-
+/* Website footer style end here */
